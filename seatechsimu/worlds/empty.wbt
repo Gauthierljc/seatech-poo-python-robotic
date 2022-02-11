@@ -1,0 +1,21 @@
+#VRML_SIM R2022a utf8
+WorldInfo {
+}
+Viewpoint {
+  orientation 0.11868208015367925 0.9475398679938363 -0.2967874027188799 0.7986789979359052
+  position -2.249047726283028 0.5655834448778153 1.922321234408377
+}
+TexturedBackground {
+  texture "stadium_dry"
+}
+TexturedBackgroundLight {
+}
+RectangleArena {
+  floorSize 2 1
+}
+Seatech-E-puck {
+  controller "SeaCont"
+}
+RubberDuck {
+  translation 0.64 0 0
+}
